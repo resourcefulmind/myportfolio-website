@@ -45,6 +45,14 @@ p {
 	color: crimson;
 }
 
+.services p {
+	width: 70%;
+}
+
+.services p span {
+	color: crimson;
+}
+
 .cta {
 	display: inline-block;
 	padding: 10px 30px;
@@ -266,6 +274,8 @@ p {
 /* End Hero Section */
 
 /* Services Section */
+
+
 #services .services {
 	flex-direction: column;
 	text-align: center;
