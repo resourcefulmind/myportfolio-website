@@ -509,6 +509,12 @@ li {
 	line-height: 2rem;
 	font-weight: 500;
 }
+#contact .contact-info a {
+	color: crimson;
+}
+#contact .contact-info a:hover {
+	color: blue;
+}
 /*End contact Section */
 
 /* Footer */
