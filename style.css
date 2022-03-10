@@ -391,7 +391,8 @@ li {
 	color: white;
 }
 #projects .project-info p a {
-	color: white;
+	color: crimson;
+	font-weight: 700;
 }
 #projects .project-info p a:hover {
 	color: crimson;
